@@ -1,0 +1,2 @@
+# chocoboom
+Basic angular application
